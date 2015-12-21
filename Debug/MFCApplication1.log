@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/12/21 21:57:10。
+     1>项目“E:\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program files\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyGlobal.cpp
+         MyGlobal.cpp
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(171): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(173): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(206): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(238): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(242): warning C4018: “>”: 有符号/无符号不匹配
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mfcapplication1\mfcapplication1\myglobal.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\program files\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MFCApplication1\Debug\MFCApplication1.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\program files\VS2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\MFCApplication1\Debug\MFCApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MFCApplication1\Debug\MFCApplication1.lib" /MACHINE:X86 Debug\MFCApplication1.res
+         Debug\MFCApplication1.obj
+         Debug\MFCApplication1Dlg.obj
+         Debug\MyGlobal.obj
+         Debug\stdafx.obj
+         MFCApplication1.vcxproj -> E:\MFCApplication1\Debug\MFCApplication1.exe
+     1>已完成生成项目“E:\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.16
